@@ -1,6 +1,5 @@
 # gatsby-blog
-A blog site using Gatsby and Netlify CMS 
-
+This project is open source and everyone is encouraged to contribute and improve it.
 
 
 **Gatsby** is a powerful preconfiguration to build a website that uses only static files for incredibly fast page loads, service workers, code splitting, server-side rendering, intelligent image loading, and asset optimization.
