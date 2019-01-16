@@ -9,7 +9,6 @@ import './layout.css'
 
 const Footer = styled.footer `
   text-align: center;
-  border-top: 1px solid grey;
   padding-top: 5px;
   padding-bottom: 5px;
 a{
